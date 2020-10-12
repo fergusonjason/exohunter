@@ -12,3 +12,5 @@ know what I'm doing.
 
 Right now I'm still working on the API. Once that's done, I'll create a React-based frontend to actually display what
 the API creates.
+
+I also need to set this up as a Docker image. Eventually.
